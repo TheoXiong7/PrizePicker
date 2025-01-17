@@ -1,0 +1,21 @@
+2025-01-16 21:34:27,738 - ERROR - Error fetching data: HTTPSConnectionPool(host='api.dailyfantasyapi.v1', port=443): Max retries exceeded with url: /lines/upcoming?sportsbook=PrizePicks&league=NBA&is_available=True (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000019B20C40A10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-01-16 21:34:27,738 - INFO - Script completed with errors or data already exists
+2025-01-16 21:35:18,076 - ERROR - Error fetching data: HTTPSConnectionPool(host='api.dailyfantasy.com', port=443): Max retries exceeded with url: /v1/lines/upcoming?sportsbook=PrizePicks&league=NBA&is_available=True (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1000)')))
+2025-01-16 21:35:18,076 - INFO - Script completed with errors or data already exists
+2025-01-16 21:36:06,968 - ERROR - Error fetching data: 401 Client Error: Unauthorized for url: https://api.dailyfantasyapi.io/v1/lines/upcoming?sportsbook=PrizePicks&league=NBA&is_available=True
+2025-01-16 21:36:06,969 - INFO - Script completed with errors or data already exists
+2025-01-16 21:37:30,910 - ERROR - Error fetching data: 400 Client Error: Bad Request for url: https://api.dailyfantasyapi.io/v1/lines/upcoming?sportsbook=PrizePicks&league=NBA&is_available=True
+2025-01-16 21:37:30,910 - INFO - Script completed with errors or data already exists
+2025-01-16 21:37:57,579 - INFO - API request successful. Status code: 200
+2025-01-16 21:37:57,579 - INFO - Script completed with errors or data already exists
+2025-01-16 21:38:24,352 - INFO - API request successful. Status code: 200
+2025-01-16 21:38:24,352 - INFO - Script completed with errors or data already exists
+2025-01-16 21:39:06,710 - ERROR - Error fetching data: 400 Client Error: Bad Request for url: https://api.dailyfantasyapi.io/v1/lines/upcoming?sportsbook=PrizePicks&league=NBA&is_available=True
+2025-01-16 21:39:06,710 - ERROR - No data received from API
+2025-01-16 21:39:06,710 - INFO - Script completed with errors or data already exists
+2025-01-16 21:39:23,342 - INFO - API request successful. Status code: 200
+2025-01-16 21:39:23,342 - ERROR - No data received from API
+2025-01-16 21:39:23,342 - INFO - Script completed with errors or data already exists
+2025-01-16 21:40:05,024 - INFO - API request successful. Status code: 200
+2025-01-16 21:40:05,025 - ERROR - No data received from API
+2025-01-16 21:40:05,025 - INFO - Script completed with errors or data already exists
